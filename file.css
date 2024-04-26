@@ -1,0 +1,63 @@
+/*/style.css/*/
+
+body{
+	font-family: Arial, sans-serif;
+}
+h1{
+	color: black; font-size: 150px;margin-inline: 450px;text-align: center;
+}
+h2{
+	color: black; font-size: 150px;margin-inline: 400px;text-align: center;
+}
+h3{
+	color: black; font-size: 70px;margin-inline: 400px;	text-align: center;
+
+}
+.row{
+	display:flex;
+	width: 50%;
+	margin-left: 10%;
+	height: 800px;
+
+}
+.col{
+	flex:1;
+	padding: 50px;
+	margin-left: 380px;
+	border-radius: 5%;
+	margin-top: 80px;
+
+}
+.row1{
+	display:flex;
+	width: 50%;
+	margin-left: 10%;
+
+}
+.col1{
+	flex:1;
+	padding: 200px;
+	margin-left: 10px;
+	border-radius: 15%;
+
+}
+.s1{
+/*	background-color:#E8E5DF ;*/
+}
+.rowdies-bold {
+  font-family: "Rowdies", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.platypi{
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
